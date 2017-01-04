@@ -1,5 +1,5 @@
 # Beef Prime
-Coding challenge response for a job application, or "Man, I should've called this 'Prime Beef'"
+### Coding challenge response for a job application, or "Man, I should've called this 'Prime Beef'"
 
 I recently applied for a job at a development agency in South Florida. Instead of sending coding challenges to applicants, they required them to complete one as part of the application.
 
